@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Infinity | Comming Soon Hugo Template By Themefisher"
+title = "City Settlers"
 theme = "infinity"
 removePathAccents = true
 publishDir = "docs"
@@ -21,12 +21,12 @@ contact = "Contact"
 [params.hero]
 enable            = true
 bg                = "images/header-bg.jpg"
-title             = "BRING YOUR PRODUCT TO LIGHT"
-subtitle          = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-btnText           = "Get Started"
+title             = "City Settlers"
+subtitle          = "A participatory city management game where the classroom becomes a planet learners try to develop and negotiate over"
+btnText           = "Learn more"
 
 # counter
-disableCountdown  = false
+disableCountdown  = true
 countdownYear = "2020"
 countdownMonth = "12"
 countdownDay  = "31"
