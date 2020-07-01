@@ -14,7 +14,7 @@ customHead = ""
 logo = "images/logo.png"
 home = "Home"
 about = "About"
-service = "Services"
+service = "Papers"
 contact = "Contact"
 
 # Hero Area
