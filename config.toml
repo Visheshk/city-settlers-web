@@ -20,10 +20,10 @@ contact = "Contact"
 # Hero Area
 [params.hero]
 enable            = true
-bg                = "images/header-bg.jpg"
+bg                = "images/header-bg.png"
 title             = "City Settlers"
 subtitle          = "A participatory city management game where the classroom becomes a planet learners try to develop and negotiate over"
-btnText           = "Learn more"
+btnText           = "Start game"
 
 # counter
 disableCountdown  = true
@@ -34,7 +34,7 @@ countdownDay  = "31"
 # About Section
 [params.about]
 enable      = true
-heading     = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
+heading     = "The Story Behind the Game"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
 
 [[params.about.sliderItem]]
@@ -50,14 +50,14 @@ image   = "images/about/2.jpg"
 # Service Section
 [params.service]
 enable      = true
-title       = "Find Better Solutions Build Better Products"
+title       = "What we can bring to your classroom"
 subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon    = "tf-strategy"
-title   = "Fully Responsive"
+title   = "strategic thinking"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "0s"
 
@@ -66,7 +66,7 @@ delay   = "0s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon    = "tf-circle-compass"
-title   = "Speed Optimized"
+title   = "communication"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "0.2s"
 
@@ -75,7 +75,7 @@ delay   = "0.2s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon    = "tf-anchor2"
-title   = "Tons of Feature"
+title   = "cooperation"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "0.4s"
 
@@ -84,7 +84,7 @@ delay   = "0.4s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon    = "tf-globe"
-title   = "Fully SEO Optimized"
+title   = "playful learning"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "0.6s"
 
@@ -93,7 +93,7 @@ delay   = "0.6s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon    = "tf-strategy"
-title   = "Fully Responsive"
+title   = "problem solving"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "0.8s"
 
