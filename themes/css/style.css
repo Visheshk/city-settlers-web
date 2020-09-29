@@ -29,7 +29,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #3d773e;
 }
 
 p {
@@ -47,7 +47,7 @@ p {
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #FF6DBC;
 }
 
 ol,
@@ -92,7 +92,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #fff;
+  color: #FF6DBC;
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
@@ -107,7 +107,7 @@ a:hover {
 }
 
 .btn-transparent:hover, .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #FF6DBC;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -161,7 +161,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #7dd482;
 }
 
 .color {
@@ -187,11 +187,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #fff;
 }
 
 .bg-dark {
-  background: #242930;
+  background: #f6ffeb;
 }
 
 .parallax-section {
@@ -411,11 +411,11 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #000;
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #7dd482;
 }
 
 .title p {
@@ -555,7 +555,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #E7FFCA;
   width: 100%;
   z-index: 99;
   margin-bottom: 0;
@@ -570,21 +570,21 @@ a:hover {
 
 .navigation .logo img {
   height: auto;
-  width: 140px;
+  width: 100px;
 }
 
 .navigation .navigation-menu li.active a {
-  color: #57cbcc;
+  color: #3c763d;
 }
 
 .navigation .navigation-menu li a {
   font-size: 16px;
-  color: #737f8a;
+  color: #8dc390;
 }
 
 .navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #777;
 }
 
 .navbar-toggle {
@@ -637,8 +637,9 @@ a:hover {
 }
 
 .logo-image {
-  width: 50% ;
-  height:50%;
+  width: 45% ;
+  height:45%;
+  padding-bottom: 5%
 }
 
 .hero-area .block h1 {
@@ -656,7 +657,7 @@ a:hover {
 }
 
 .hero-area .block p {
-  color: #fff;
+  color: #777;
   font-size: 20px;
   width: 70%;
   margin: 0 auto;
@@ -664,7 +665,7 @@ a:hover {
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #fff;
+  border-color: #FF6DBC;
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
@@ -709,7 +710,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #fff;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -717,7 +718,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #7dd482;
 }
 
 .about .block:hover .icon-box {
@@ -1869,7 +1870,8 @@ aside.widget {
 .tab-post-nav li.active a {
   border-top: 3px solid #6cb670;
   background-color: #2F383D;
-  color: #6CB670;
+  color: #ff8300;
+
 }
 
 .tab-pane.active .clearfix:first-child {
